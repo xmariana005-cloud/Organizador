@@ -1,0 +1,10 @@
+{
+  "name": "meu-projeto",
+  "version": "1.0.0",
+  "description": "Projeto simples sem dependencias externas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
