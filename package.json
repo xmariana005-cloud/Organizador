@@ -2,9 +2,9 @@
   "name": "meu-projeto",
   "version": "1.0.0",
   "description": "Projeto simples sem dependencias externas",
-  "main": "index.js",
+  "main": "index.json",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.json"
   },
   "dependencies": {}
 }
